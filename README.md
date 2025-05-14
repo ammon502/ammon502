@@ -2,17 +2,18 @@
 
 Hello, GitHub! 👋
 
-I'm <Ammon Kellar>, a student interested in <Computer Science, Data Science, Machine Learning, Data Engineering, Statistics, Software Development, Business Analytics, Business Management>. Welcome to my GitHub profile!
+I'm Ammon Kellar, a student interested in Computer Science, Data Science, Machine Learning, Data Engineering, Statistics, Software Development, Business Analytics, Business Management. Welcome to my GitHub profile!
 
 ## About Me
 
 - 🌱 I'm currently a senior at BYU-Idaho studying <Data Science>
 
 ## Technologies and Tools
-- 💻 Proficient in: <●	Experience with data visualization and dashboard tools (Streamlit, Matplotlib, Seaborn)
+- 💻 Proficient in:
+●	Experience with data visualization and dashboard tools (Streamlit, Matplotlib, Seaborn)
 ●	Proficient in R, Python, Excel, C#, C++, PowerPoint, MS Word
 ●	Proficient with machine learning libraries (scikit-learn, TensorFlow, Keras, XGBoost)
-●	Proficient with data querying and manipulation (SQL, pandas, NumPy)>
+●	Proficient with data querying and manipulation (SQL, pandas, NumPy)
 - 🚀 Skills: <Hunting down, analzing and wrangling data
 
 
