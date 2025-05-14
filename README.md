@@ -9,7 +9,7 @@ I'm Ammon Kellar, a student interested in Computer Science, Data Science, Machin
 - 🌱 I'm currently a senior at BYU-Idaho studying <Data Science>
 
 ## Technologies and Tools
-- 💻 Proficient in:
+💻 Proficient in:
 
 ●	Experience with data visualization and dashboard tools (Streamlit, Matplotlib, Seaborn)
 ●	Proficient in R, Python, Excel, C#, C++, PowerPoint, MS Word
