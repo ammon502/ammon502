@@ -15,7 +15,7 @@ I'm Ammon Kellar, a student interested in Computer Science, Data Science, Machin
 -	Proficient in R, Python, Excel, C#, C++, PowerPoint, MS Word
 -	Proficient with machine learning libraries (scikit-learn, TensorFlow, Keras, XGBoost)
 -	Proficient with data querying and manipulation (SQL, pandas, NumPy)
-- 🚀 Skills: <Hunting down, analzing and wrangling data
+- 🚀 Skills: Hunting down, wrangling and analyzing data (creating reports)
 ## Let's Connect!
 
 - Here is my [LinkedIn](www.linkedin.com/in/ammon-kellar-583a2725a) profile
